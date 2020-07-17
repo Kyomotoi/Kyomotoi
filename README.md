@@ -6,9 +6,9 @@
 
 
 - 🔭 I’m currently working on: A student
-- 🌱 I’m currently learning: Python, Fastapi, Java, C/C++
+- 🌱 I’m currently learning: Python, Fastapi
 - 👯 I’m looking to collaborate on: None
-- 🤔 I’m looking for help with: Python, Java, C/C++
+- 🤔 I’m looking for help with: Python
 - 💬 Ask me about ...
 - 📫 How to reach me: [@Kyomotoi1](https://twitter.com/Kyomotoi1)
 - 😄 Pronouns: ...
