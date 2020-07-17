@@ -1,9 +1,15 @@
-- name: Waka - Readme
-  uses: athul/waka-readme@0.1.2
-  with:
-    # GitHub access token with Repo scope
-    GH_TOKEN: # default is ${{ github.token }}
-    # Your Wakatime API Key
-    WAKATIME_API_KEY: 645fe7fb-8780-4862-bd97-5ea2e83289bc
-    # Your GitHub username
-    USERNAME: Kyomotoi# optional, default is ${{ github.repository_owner }}
+name: Update stats
+
+on:
+  schedule:
+    # Runs at 12am UTC
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
