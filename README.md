@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Kyomotoi
+I'm **Kyomotoi**
 
 This is the place where I opensource stuff🤺
 
@@ -8,7 +8,9 @@ This is the place where I opensource stuff🤺
 - 🌱 I’m currently learning: Python, Fastapi
 - 👯 I’m looking to collaborate on: None
 - 🤔 I’m looking for help with: Python
-- 📫 How to reach me: [@Kyomotoi1](https://twitter.com/Kyomotoi1)
+- 📫 How to reach me: 
+    - Twitter: [@Kyomotoi1](https://twitter.com/Kyomotoi1) 
+    - Telegram: [@Kyomotoi](https://t.me/Kyomotoi)
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
