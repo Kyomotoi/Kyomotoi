@@ -4,7 +4,7 @@ I'm **Kyomotoi**
 
 This is the place where I opensource stuff🤺
 
-- 🔭 I’m currently working on: A student
+- 🔭 I’m currently working on: student
 - 🌱 I’m currently learning: Python, Fastapi, Java
 - 👯 I’m looking to collaborate on: None
 - 🤔 I’m looking for help with: Python, Java
