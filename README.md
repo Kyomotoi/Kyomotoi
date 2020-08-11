@@ -11,6 +11,7 @@ This is the place where I opensource stuff🤺
 - 📫 How to reach me: 
     - Twitter: [@Kyomotoi1](https://twitter.com/Kyomotoi1) 
     - Telegram: [@Kyomotoi](https://t.me/Kyomotoi)
+- Afdian: <https://afdian.net/@Kyomotoi>
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
