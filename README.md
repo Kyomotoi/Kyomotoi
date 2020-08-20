@@ -13,6 +13,8 @@ This is the place where I opensource stuff🤺
     - Telegram: [@Kyomotoi](https://t.me/Kyomotoi)
 - Afdian: <https://afdian.net/@Kyomotoi>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kyomotoi)](https://github.com/anuraghazra/github-readme-stats)
+
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
