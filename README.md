@@ -15,15 +15,15 @@ This is the place where I opensource stuff🤺
 <!--START_SECTION:waka-->
 ```text
 ⌚︎ Timezone: Asia/Shanghai
-🔛 Duration: September 20 - September 26
+🔛 Duration: September 21 - September 27
 
 💬 Languages: 
-Python      1 hr 41 mins        █████████████████████████   100.0%
+
 
 🔥 Editors: 
-VS Code     1 hr 41 mins        █████████████████████████   100.0%
+
 
 💻 Operating Systems: 
-Windows     1 hr 41 mins        █████████████████████████   100.0%
+
 ```
 <!--END_SECTION:waka-->
