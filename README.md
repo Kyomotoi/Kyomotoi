@@ -15,7 +15,7 @@ This is the place where I opensource stuff🤺
 <!--START_SECTION:waka-->
 ```text
 ⌚︎ Timezone: Asia/Shanghai
-🔛 Duration: October 19 - October 25
+🔛 Duration: October 20 - October 26
 
 💬 Languages: 
 Python      7 hrs 9 mins        ██████████████████░░░░░░░   72.91% 
