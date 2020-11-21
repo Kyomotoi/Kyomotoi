@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm **Kyomotoi**
-
-This is the place where I opensource stuff🤺
+I'm **Kyomotoi**, This is the place where I opensource stuff🤺
 
 - 📫 How to reach me: 
     - Telegram: [@Kyomotoi](https://t.me/Kyomotoi)
