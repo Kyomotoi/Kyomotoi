@@ -9,4 +9,4 @@ Using: Python, Golang, Java
     - Email: <kyomotoiowo@gmail.com>
 - Afdian: <https://afdian.net/@Kyomotoi>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kyomotoi)](https://github.com/anuraghazra/github-readme-stats)
+
