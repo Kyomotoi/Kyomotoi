@@ -1,3 +1,5 @@
+![Kyomotoi](https://count.getloli.com/get/@:kyomotoi?theme=rule34)
+
 ### Hi there 👋
 
 I'm **Kyomotoi**, This is the place where I opensource stuff.
