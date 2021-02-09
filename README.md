@@ -4,18 +4,21 @@
 
 ### Hi there 👋
 
-I'm **Kyomotoi**, This is the place where I opensource stuff.
+这里 **Kyomotoi**, 此处为本人开源的地方。
 
-Using: Python, Golang, Java
+- 交流时请把我的人设定位右边~
 
-- 📫 How to reach me: 
+- 这人很菜🐓，精通cv编程，Google编程
+
+- 📫 还可以在哪里发现我呢: 
     - Telegram: [@Kyomotoi](https://t.me/Kyomotoi)
     - Email: <kyomotoiowo@gmail.com>
-- Afdian: <https://afdian.net/@Kyomotoi>
+- 我很可爱，__ __ __ __: <https://afdian.net/@Kyomotoi>
 
-<details markdown='1'><summary>Something to celebrate a some project(</summary>
+<details markdown='1'><summary>*/ω＼*(</summary>
 https://twitter.com/Kyomotoi1/status/1331631064670846977?s=20<br>
-好欸！是女装！
+好欸！事蓮華！<br>
+等啥？赶快follower阿————！！！
 </details>
 
 大変に気分がいい。
