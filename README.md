@@ -20,5 +20,3 @@ https://twitter.com/Kyomotoi1/status/1331631064670846977?s=20<br>
 好欸！事蓮華！<br>
 等啥？赶快follower阿————！！！
 </details>
-
-大変に気分がいい。
