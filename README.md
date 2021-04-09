@@ -4,11 +4,11 @@
 
 ### Hi there 👋
 
-这里 **Kyomotoi**, 此处为本人开源的地方。
+这里 **Kyomotoi**, 一只菜鸡的自我展示。
 
-- 交流时请把我的人设定位右边~
+- 你问我右边是谁？桜小路ルナ様！可愛いでしょ！
 
-- 这人很菜🐓，精通cv编程，Google编程
+- 咱精通cv编程，Google编程
 
 - 📫 还可以在哪里发现我呢: 
     - Telegram: [@Kyomotoi](https://t.me/Kyomotoi)
