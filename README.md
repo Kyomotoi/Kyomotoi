@@ -10,6 +10,11 @@
 
 - 咱精通cv编程，Google编程
 
+- 常用（系统/工具/语言）：
+  - ![](https://img.shields.io/badge/Windows10-0078d6?style=flat-square&logo=windows&logoColor=fff) ![](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=Debian&logoColor=fff)
+  - ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=fff)
+  - ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=fff) ![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=fff)
+
 - 📫 还可以在哪里发现我呢: 
     - Telegram: [@Kyomotoi](https://t.me/Kyomotoi)
     - Email: <kyomotoiowo@gmail.com>
