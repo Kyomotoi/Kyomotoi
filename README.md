@@ -1,4 +1,4 @@
-<img align="right" src="https://cdn.jsdelivr.net/gh/Kyomotoi/CDN@master/noting/iina3.png" width='400px'>
+<img align="right" src="https://cdn.jsdelivr.net/gh/Kyomotoi/CDN@master/noting/iina3.png" width='360px'>
 
 欸、欸欸。是来认识Kyomotoi的么......
 
