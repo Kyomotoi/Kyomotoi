@@ -1,4 +1,4 @@
-<img align="right" src="https://cdn.jsdelivr.net/gh/Kyomotoi/Kyomotoi/LunaSakurakouji.png" width='380px'>
+<img align="right" src="https://cdn.jsdelivr.net/gh/Kyomotoi/CDN@master/noting/iina.png" width='255px'>
 
 ![Kyomotoi](https://count.getloli.com/get/@:kyomotoi?theme=rule34)
 
