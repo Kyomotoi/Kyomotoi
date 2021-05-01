@@ -23,6 +23,10 @@
   - [【go-ATRI】使用go重构的~~高性能~~bot](https://github.com/Kyomotoi/go-ATRI) [![](https://img.shields.io/github/stars/Kyomotoi/go-ATRI.svg?&label=☆&labelColor=8c8&color=yellow)](https://github.com/Kyomotoi/go-ATRI/stargazers)
   - [【HibiAPI】Imjad API 的开源替代](https://github.com/mixmoe/HibiAPI) [![](https://img.shields.io/github/stars/mixmoe/HibiAPI.svg?&label=☆&labelColor=8c8&color=yellow)](https://github.com/mixmoe/HibiAPI/stargazers)
 
+- 更多的联系方式：
+  - [Mail](kyomotoiowo@gmail.com)
+  - [Telegram](https://t.me/Kyomotoi)
+
 欸欸欸欸欸，别老是盯着咱看阿！！~~~
 
 嗯，。就这些了，拜拜
