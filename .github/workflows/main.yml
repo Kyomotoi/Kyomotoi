@@ -29,7 +29,7 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_user: Kyomotoi
           plugin_wakatime_sections: time, projects, languages, language-graphs, editors, editors-graphs, os
           plugin_wakatime_repositories_visibility: public
